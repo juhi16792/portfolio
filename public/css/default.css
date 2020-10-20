@@ -87,7 +87,7 @@ pre {
    word-wrap: break-word;
 }
 
-blockquote, q { quotes: &#8220 &#8220; }
+/* blockquote, q { quotes: &#8220 &#8220; } */
 
 blockquote:before, blockquote:after,
 q:before, q:after {
@@ -451,6 +451,8 @@ dd { margin: 0 0 0 20px; }
 img {
    max-width: 100%;
    height: auto;
+   width: 300px;
+   height: 168px;
 }
 img.pull-right { margin: 12px 0px 0px 18px; }
 img.pull-left { margin: 12px 18px 0px 0px; }
@@ -464,7 +466,7 @@ input[type="submit"],
 input[type="reset"],
 input[type="button"] {
    font: 16px/30px 'opensans-bold', sans-serif;
-   background: #11ABB0;
+   background: orange;
    display: inline-block;
 	text-decoration: none;
    letter-spacing: 0;
@@ -635,9 +637,15 @@ input[type="checkbox"] { display: inline; }
 
 /* column widths */
 .row .one         { width: 8.33333%; }
-.row .two         { width: 16.66667%; }
+.row .two         { 
+   width: 100%;
+   text-align: center;
+ }
 .row .three       { width: 25%; }
-.row .four        { width: 33.33333%; }
+.row .four        { 
+   width: 100%;
+   text-align: center;
+ }
 .row .five        { width: 41.66667%; }
 .row .six         { width: 50%; }
 .row .seven       { width: 58.33333%; }

@@ -1,24 +1,55 @@
 import React, { Component } from 'react';
-import Header from './components/header/header';
-import About from './components/about/about';
-import Resume from './components/resume/resume';
-import Portfolio from './components/portfolio/portfolio';
-import Testimonials from  './components/testimonials/testimonials';
-import ContactUs from './components/contactus/contactus';
-import Footer from './components/footer/footer';
-import resumeData from './resumeData';
+// import ReactGA from 'react-ga';
+import $ from 'jquery';
+import './App.css';
+import Header from './Components/Header';
+import Footer from './Components/Footer';
+import About from './Components/About';
+import Resume from './Components/Resume';
+import Contact from './Components/Contact';
+// import Testimonials from './Components/Testimonials';
+import Portfolio from './Components/Portfolio';
+
 class App extends Component {
+
+  constructor(props){
+    super(props);
+    this.state = {
+      foo: 'bar',
+      resumeData: {}
+    };
+
+  }
+
+  getResumeData(){
+    $.ajax({
+      url:'/resumeData.json',
+      dataType:'json',
+      cache: false,
+      success: function(data){
+        this.setState({resumeData: data});
+      }.bind(this),
+      error: function(xhr, status, err){
+        console.log(err);
+        alert(err);
+      }
+    });
+  }
+
+  componentDidMount(){
+    this.getResumeData();
+  }
+
   render() {
     return (
       <div className="App">
-        <Header resumeData={resumeData}/>
-        <About resumeData={resumeData}/>
-        <Resume resumeData={resumeData}/>
-        <Portfolio resumeData={resumeData}/>
-        <Testimonials resumeData={resumeData}/>
-        <ContactUs resumeData={resumeData}/>
-        <Footer resumeData={resumeData}/>
-        
+        <Header data={this.state.resumeData.main}/>
+        <About data={this.state.resumeData.main}/>
+        <Resume data={this.state.resumeData.resume}/>
+        <Portfolio data={this.state.resumeData.portfolio}/>
+        {/* <Testimonials data={this.state.resumeData.testimonials}/> */}
+        <Contact data={this.state.resumeData.main}/>
+        <Footer data={this.state.resumeData.main}/>
       </div>
     );
   }
