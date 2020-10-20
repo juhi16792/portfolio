@@ -107,45 +107,45 @@
       "projects": [
         {
           "title": "INI",
-          "category": "Website built with MongoDB, ExpressJS, ReactJS, NodeJS",
+          "category": "Website built with Golang,Go Templates, Gorilla mux framework,MySQL, JavaScript, Jquery, HTML,CSS",
           "image": "phone1.jpg",
           "url": "https://www.ini.usc.edu/"
         },
         {
           "title": "LONI",
-          "category": "Website built with MongoDB, ExpressJS, ReactJS, NodeJS",
+          "category": "Website built with Golang,Go Templates, Iris framework, MySQL,ReactJS, HTML,CSS",
           "image": "project3.jpg",
           "url": "https://loni.usc.edu/"
         },
         {
           "title": "CIC",
-          "category": "Website built with MongoDB, ExpressJS, ReactJS, NodeJS",
+          "category": "Website built with Golang,Go Templates, Iris framework, MySQL,ReactJS, HTML,CSS ",
           "image": "project5.jpg",
           "url": "https://cic.ini.usc.edu/"
         },
         {
           "title": "COVID-ARC",
-          "category": "Website built with MongoDB, ExpressJS, ReactJS, NodeJS",
+          "category": "Website built with Golang,Go Templates, Gorilla mux framework,MySQL, JavaScript, Jquery, HTML,CSS",
           "image": "project4.jpg",
           "url": "https://covid-arc.loni.usc.edu/"
         },
         {
           "title": "Mars over ROVER",
-          "category": "Website built with MongoDB, ExpressJS, ReactJS, NodeJS",
+          "category": "Project built with Java, Socket Programming,Artificial programming",
           "image": "rover.jpg",
           "url": "https://github.com/juhi16792/ROVER_04"
         },
         {
           "title": "Friend-stalker Android App",
-          "category": "Website built with MongoDB, ExpressJS, ReactJS, NodeJS",
+          "category": "Mobile app built with Andriod sdk,java, xml.",
           "image": "phone.jpg",
           "url": "https://github.com/juhi16792/Friend_Stalker_App"
         },
         {
             "title": "PPG",
-            "category": "Website built with MongoDB, ExpressJS, ReactJS, NodeJS",
+            "category": "Website built with PHP, WordPress, HTML,CSS",
             "image": "project6.jpg",
-            "url": "https://github.com/juhi16792/ROVER_04"
+            "url": "https://vcdad.ini.usc.edu"
           }
           
         
