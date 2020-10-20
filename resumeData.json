@@ -1,0 +1,166 @@
+{
+    "main": {
+      "name": " Juheeshwari",
+      "occupation": "Full-stack Developer",
+      "description": "I like dabbling in various parts of web development and focus on crafting clean and user-friendly experience",
+      "image": "profilepic2.jpg",
+      "bio": "I believe in making every day phenomenal and turning coffee into code. To save time let's just say my code is always bug-free :P I like to learn about new technologies and occasionally write blogs.When I'm not coding, you'll find me cooking, gardening, painting or working out. ",
+      "contactmessage": "Get in touch with me",
+      "email": "lrjuheeshwari16@gmail.com",
+      "address": {
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "91801"
+      },
+      "website": "http://www.juheeshwari.me",
+      "resumedownload": "Ju.pdf",
+      "social": [
+        {
+          "name": "facebook",
+          "url": "https://www.facebook.com/juhi.jamav",
+          "className": "fa fa-facebook"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/juheeshwari-laxmi-rajamohan-45a947126/",
+          "className": "fa fa-linkedin"
+        },
+        {
+          "name": "github",
+          "url": "https://github.com/juhi16792",
+          "className": "fa fa-github"
+        }
+      ]
+    },
+    "resume": {
+      "skillmessage": "",
+      "education": [
+        {
+          "school": "California State University",
+          "degree": "Masters in Computer Science",
+          "graduated": "May 2018"
+        },
+        {
+          "school": "Gujarat Technological University",
+          "degree": "Bachelors in Computer Science",
+          "graduated": "June 2014"
+        }
+      ],
+      "work": [
+        {
+          "company": "University of Southern California",
+          "title": "Web Developer",
+          "years": "Sept 2018 - Present",
+          "description": "Develop, maintain and debug applications/websites in technologies like Go with Iris, Gorilla Mux Framework, PHP and WordPress.Designed, developed and implemented readable, well documented and reusable APIs. Maneuver HTML, CSS, JavaScript, jQuery, AngularJS,ReactJS and Golang for web development."
+        },
+        {
+          "company": "JLL",
+          "title": "Data Analyst",
+          "years": "May 2018 - Sept 2018",
+          "description": "Worked on research projects using PHP, MySQL, Tableau.Developed and executed the simple to moderately complex data /analytic processes to support ad hoc data and information delivery for assigned projects.Maintained the production of data management, data integration and reporting processes."
+        }
+      ],
+      "skills": [
+        {
+          "name": "ReactJs",
+          "level": "75%"
+        },
+        {
+          "name": "CSS",
+          "level": "95%"
+        },
+        {
+          "name": "Git",
+          "level": "90%"
+        },
+        {
+          "name": "PHP",
+          "level": "70%"
+        },
+        {
+          "name": "Wordpress",
+          "level": "80%"
+        },
+        {
+          "name": "Go",
+          "level": "70%"
+        },
+        {
+          "name": "Java",
+          "level": "65%"
+        },
+        {
+          "name": "AngularJS",
+          "level": "75%"
+        },
+        {
+          "name": "HTML5",
+          "level": "90%"
+        },
+        {
+          "name": "JavaScript",
+          "level": "80%"
+        }
+      ]
+    },
+    "portfolio": {
+      "projects": [
+        {
+          "title": "INI",
+          "category": "Website built with MongoDB, ExpressJS, ReactJS, NodeJS",
+          "image": "phone1.jpg",
+          "url": "https://www.ini.usc.edu/"
+        },
+        {
+          "title": "LONI",
+          "category": "Website built with MongoDB, ExpressJS, ReactJS, NodeJS",
+          "image": "project3.jpg",
+          "url": "https://loni.usc.edu/"
+        },
+        {
+          "title": "CIC",
+          "category": "Website built with MongoDB, ExpressJS, ReactJS, NodeJS",
+          "image": "project5.jpg",
+          "url": "https://cic.ini.usc.edu/"
+        },
+        {
+          "title": "COVID-ARC",
+          "category": "Website built with MongoDB, ExpressJS, ReactJS, NodeJS",
+          "image": "project4.jpg",
+          "url": "https://covid-arc.loni.usc.edu/"
+        },
+        {
+          "title": "Mars over ROVER",
+          "category": "Website built with MongoDB, ExpressJS, ReactJS, NodeJS",
+          "image": "rover.jpg",
+          "url": "https://github.com/juhi16792/ROVER_04"
+        },
+        {
+          "title": "Friend-stalker Android App",
+          "category": "Website built with MongoDB, ExpressJS, ReactJS, NodeJS",
+          "image": "phone.jpg",
+          "url": "https://github.com/juhi16792/Friend_Stalker_App"
+        },
+        {
+            "title": "PPG",
+            "category": "Website built with MongoDB, ExpressJS, ReactJS, NodeJS",
+            "image": "project6.jpg",
+            "url": "https://github.com/juhi16792/ROVER_04"
+          }
+          
+        
+      ]
+    },
+    "testimonials": {
+      "testimonials": [
+        {
+          "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+          "user": "Kareem Abdul Jabbar"
+        },
+        {
+          "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+          "user": "Steve Wozniak... impersonator"
+        }
+      ]
+    }
+  }
