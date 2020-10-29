@@ -55,7 +55,7 @@
         },
         {
           "company": "JLL",
-          "title": "Data Analyst",
+          "title": "Programmer Analyst",
           "years": "May 2018 - Sept 2018",
           "description": "Worked on research projects using PHP, MySQL, Tableau.Developed and executed the simple to moderately complex data /analytic processes to support ad hoc data and information delivery for assigned projects.Maintained the production of data management, data integration and reporting processes."
         }
@@ -68,6 +68,10 @@
         {
           "name": "CSS",
           "level": "95%"
+        },
+        {
+          "name": "SQL",
+          "level": "75%"
         },
         {
           "name": "Git",
