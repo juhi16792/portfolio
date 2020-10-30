@@ -4,7 +4,7 @@
       "occupation": "Full-stack Developer",
       "description": "I like dabbling in various parts of web development and focus on crafting clean and user-friendly experience",
       "image": "profilepic2.jpg",
-      "bio": "I believe in making every day phenomenal and turning coffee into code. To save time let's just say my code is always bug-free :P I like to learn about new technologies and occasionally write blogs.When I'm not coding, you'll find me cooking, gardening, painting or working out. ",
+      "bio": "I believe in making every day phenomenal and turning coffee into code. I like to learn about new technologies and occasionally write blogs.I always thrive for best outcome in web developement; one that is fast, easy to use, beautiful, accessible to all, and well documented. My forte is primarily front-end development and believe in having experience that allows making the most optimal user experiences. When I'm not coding, you'll find me cooking, gardening, painting or working out. ",
       "contactmessage": "Get in touch with me",
       "email": "lrjuheeshwari16@gmail.com",
       "address": {
@@ -15,20 +15,28 @@
       "website": "http://www.juheeshwari.me",
       "resumedownload": "Ju.pdf",
       "social": [
+        
         {
           "name": "facebook",
           "url": "https://www.facebook.com/juhi.jamav",
           "className": "fa fa-facebook"
         },
+        
         {
           "name": "linkedin",
           "url": "https://www.linkedin.com/in/juheeshwari-laxmi-rajamohan-45a947126/",
           "className": "fa fa-linkedin"
         },
+       
         {
           "name": "github",
           "url": "https://github.com/juhi16792",
           "className": "fa fa-github"
+        },
+        {
+          "name": "medium",
+          "url": "https://medium.com/@juheeshwarirajmohan",
+          "className": "fa fa-medium fa-sm"
         }
       ]
     },
@@ -51,13 +59,13 @@
           "company": "University of Southern California",
           "title": "Web Developer",
           "years": "Sept 2018 - Present",
-          "description": "Develop, maintain and debug applications/websites in technologies like Go with Iris, Gorilla Mux Framework, PHP and WordPress.Designed, developed and implemented readable, well documented and reusable APIs. Maneuver HTML, CSS, JavaScript, jQuery, AngularJS,ReactJS and Golang for web development."
+          "description": "Develop, maintain and debug applications/websites in technologies like Go with Iris, Gorilla Mux Framework, PHP and WordPress. Design, develop and implement readable, well documented and reusable APIs. Maneuver HTML, CSS, JavaScript, jQuery, AngularJS,ReactJS and Golang for web development. Maintain the CI/CD pipelines from creating Jenkins jobs to update Puppet at the master/slave. Ensure that all web projects fully support and exploit SEO best practices. Optimize application scalability and build robust, functioning code, produce well designed, testable, efficient code by using best software development practices"
         },
         {
           "company": "JLL",
-          "title": "Data Analyst",
+          "title": "Programmer Analyst",
           "years": "May 2018 - Sept 2018",
-          "description": "Worked on research projects using PHP, MySQL, Tableau.Developed and executed the simple to moderately complex data /analytic processes to support ad hoc data and information delivery for assigned projects.Maintained the production of data management, data integration and reporting processes."
+          "description": "Worked on research projects using PHP, MySQL, Tableau. Develop and execute the simple to moderately complex data /analytic processes to support ad hoc data and information delivery for assigned projects on daily basis. Maintain the production of data management, data integration and reporting processes.Manage the identification, prioritization and remediation of data quality issues. Develop documentation and data flow diagrams to maintain accurate metadata and data lineage. Participate in the design and development of technical solutions to ensure that business requirements are satisfied. Perform data discovery to understand data values and relationships in new data sources."
         }
       ],
       "skills": [
@@ -68,6 +76,10 @@
         {
           "name": "CSS",
           "level": "95%"
+        },
+        {
+          "name": "SQL",
+          "level": "75%"
         },
         {
           "name": "Git",
