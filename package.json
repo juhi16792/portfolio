@@ -3,25 +3,35 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.32",
+    "@fortawesome/free-brands-svg-icons": "^5.15.1",
+    "@fortawesome/free-regular-svg-icons": "^5.15.1",
+    "@fortawesome/free-solid-svg-icons": "^5.15.1",
+    "@fortawesome/react-fontawesome": "^0.1.12",
     "express": "^4.17.1",
+    "g": "^2.0.1",
     "gh-pages": "^3.1.0",
-    "homepage": "http://juheeshwari.me",
     "jquery": "^3.5.1",
+    "jquery2": "npm:jquery@^2.2.4",
+    "my-react": "npm:react@^17.0.1",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-favicon": "0.0.18",
-    "react-ga": "^3.1.2",
+    "react-ga": "^3.2.0",
     "react-pdf": "^5.0.0",
-    "react-scripts": "^3.4.3"
+    "react-scripts": "^3.4.3",
+    "webpack": "^4.42.0"
   },
   "scripts": {
-    "start": "react-scripts start",
+    
+    "start": "export HTTPS=true&&SSL_CRT_FILE=cert.pem&&SSL_KEY_FILE=key.pem react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  
   "browserslist": {
     "production": [
       ">0.2%",

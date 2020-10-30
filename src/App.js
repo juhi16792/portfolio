@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import ReactGA from "react-ga";  //Google Analytics 
 // import ReactGA from 'react-ga';
 import $ from 'jquery';
 import './App.css';
@@ -18,7 +19,7 @@ class App extends Component {
       foo: 'bar',
       resumeData: {}
     };
-
+   
   }
 
   getResumeData(){
