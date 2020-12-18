@@ -13,7 +13,7 @@
         "zip": "91801"
       },
       "website": "http://www.juheeshwari.me",
-      "resumedownload": "Ju.pdf",
+      "resumedownload": "Ju1.pdf",
       "social": [
         
         {
@@ -108,6 +108,10 @@
         {
           "name": "HTML5",
           "level": "90%"
+        },
+        {
+          "name": "Node.js",
+          "level": "60%"
         },
         {
           "name": "JavaScript",
