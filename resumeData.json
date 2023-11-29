@@ -1,0 +1,225 @@
+{
+    "main": {
+      "name": " Juheeshwari",
+      "occupation": "Full-stack Developer",
+      "description": "I like dabbling in various parts of web development and focus on crafting clean and user-friendly experience",
+      "image": "profilepic2.jpg",
+      "bio": "I believe in making every day phenomenal and turning coffee into code. I like to learn about new technologies and occasionally write blogs.I always thrive for best outcome in web developement; one that is fast, easy to use, beautiful, accessible to all, and well documented. My forte is primarily front-end development and believe in having experience that allows making the most optimal user experiences. When I'm not coding, you'll find me cooking, gardening, painting or working out. ",
+      "contactmessage": "Get in touch with me",
+      "email": "lrjuheeshwari16@gmail.com",
+      "address": {
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "91801"
+      },
+      "website": "http://www.juheeshwari.me",
+      "resumedownload": "Ju1.pdf",
+      "social": [
+        
+        {
+          "name": "facebook",
+          "url": "https://www.facebook.com/juhi.jamav",
+          "className": "fa fa-facebook"
+        },
+        
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/juheeshwari-laxmi-rajamohan-45a947126/",
+          "className": "fa fa-linkedin"
+        },
+       
+        {
+          "name": "github",
+          "url": "https://github.com/juhi16792",
+          "className": "fa fa-github"
+        },
+        {
+          "name": "medium",
+          "url": "https://medium.com/@juheeshwarirajmohan",
+          "className": "fa fa-medium fa-sm"
+        }
+      ]
+    },
+    "resume": {
+      "skillmessage": "",
+      "education": [
+        {
+          "school": "Westcliff University",
+          "degree": "Master of Business Administration in Statistical Data Analysis",
+          "graduated": "June 2023"
+        },
+        {
+          "school": "California State University",
+          "degree": "Masters in Computer Science",
+          "graduated": "May 2018"
+        },
+        {
+          "school": "Gujarat Technological University",
+          "degree": "Bachelors in Computer Science",
+          "graduated": "June 2014"
+        }
+      ],
+      "work": [
+        {
+          "company": "i911",
+          "title": "Lead Software Engineer",
+          "years": "March 2021 - Present",
+          "description": "Led the frontend development of a fitness mobile AR app and implemented in-app purchases and advertisement to monetize the app. Collaborated with 3D avatar artists and designers to implement and optimize game mechanics, UI/UX elements. Integrated third-party APIs and SDKs for enhanced functionality and features."
+        },
+        {
+          "company": "University of Southern California",
+          "title": "Full-stack Web developer",
+          "years": "Sept 2018 - March 2021",
+          "description": "Develop, maintain and debug applications/websites in technologies like Go with Iris, Gorilla Mux Framework, PHP and WordPress. Design, develop and implement readable, well documented and reusable APIs. Maneuver HTML, CSS, JavaScript, jQuery, AngularJS,ReactJS and Golang for web development. Maintain the CI/CD pipelines from creating Jenkins jobs to update Puppet at the master/slave. Ensure that all web projects fully support and exploit SEO best practices. Optimize application scalability and build robust, functioning code, produce well designed, testable, efficient code by using best software development practices"
+        },
+        {
+          "company": "JLL",
+          "title": "Programmer Analyst",
+          "years": "May 2018 - Sept 2018",
+          "description": "Worked on research projects using PHP, MySQL, Tableau. Develop and execute the simple to moderately complex data /analytic processes to support ad hoc data and information delivery for assigned projects on daily basis. Maintain the production of data management, data integration and reporting processes.Manage the identification, prioritization and remediation of data quality issues. Develop documentation and data flow diagrams to maintain accurate metadata and data lineage. Participate in the design and development of technical solutions to ensure that business requirements are satisfied. Perform data discovery to understand data values and relationships in new data sources."
+        }
+      ],
+      "skills": [
+        {
+          "name": "HTML/CSS",
+          "level": "90%"
+        },
+        
+        {
+          "name": "ReactJs",
+          "level": "75%"
+        },
+        {
+          "name": "AngularJS",
+          "level": "75%"
+        },
+       
+        {
+          "name": "Node.js",
+          "level": "70%"
+        },
+        {
+          "name": "JavaScript",
+          "level": "80%"
+        },
+        {
+          "name": "Vue.js",
+          "level": "75%"
+        },
+        {
+          "name": "Go",
+          "level": "70%"
+        },
+        {
+          "name": "Java",
+          "level": "75%"
+        },
+        
+        {
+          "name": "SQL",
+          "level": "75%"
+        },
+        {
+          "name": "Git",
+          "level": "90%"
+        },
+        {
+          "name": "PHP",
+          "level": "70%"
+        },
+        {
+          "name": "Unity",
+          "level": "70%"
+        },
+        {
+          "name": "Flutter",
+          "level": "50%"
+        },
+        {
+          "name": "Xcode",
+          "level": "70%"
+        },
+        {
+          "name": "Android Studio",
+          "level": "60%"
+        },
+        {
+          "name": "Wordpress",
+          "level": "80%"
+        }
+    
+      ]
+    },
+    "portfolio": {
+      "projects": [
+        {
+          "title": "i911",
+          "category": "Website built with React and NodeJS",
+          "image": "project7.png",
+          "url": "https://www.i911.com/"
+        },
+        {
+          "title": "Adventure Traveler",
+          "category": "Mobile application built with Unity3D and Xcode",
+          "image": "project8.png",
+          "url": "https://apps.apple.com/ca/app/adventure-traveler/id1593125002"
+        },
+        {
+          "title": "INI",
+          "category": "Website built with Golang,Go Templates, Gorilla mux framework,MySQL, JavaScript, Jquery, HTML,CSS",
+          "image": "phone1.jpg",
+          "url": "https://www.ini.usc.edu/"
+        },
+        {
+          "title": "LONI",
+          "category": "Website built with Golang,Go Templates, Iris framework, MySQL,ReactJS, HTML,CSS",
+          "image": "project3.jpg",
+          "url": "https://loni.usc.edu/"
+        },
+        {
+          "title": "CIC",
+          "category": "Website built with Golang,Go Templates, Iris framework, MySQL,ReactJS, HTML,CSS ",
+          "image": "project5.jpg",
+          "url": "https://cic.ini.usc.edu/"
+        },
+        {
+          "title": "COVID-ARC",
+          "category": "Website built with Golang,Go Templates, Gorilla mux framework,MySQL, JavaScript, Jquery, HTML,CSS",
+          "image": "project4.jpg",
+          "url": "https://covid-arc.loni.usc.edu/"
+        },
+        {
+          "title": "Mars over ROVER",
+          "category": "Project built with Java, Socket Programming,Artificial programming",
+          "image": "rover.jpg",
+          "url": "https://github.com/juhi16792/ROVER_04"
+        },
+        {
+          "title": "Friend-stalker Android App",
+          "category": "Mobile app built with Andriod sdk,java, xml.",
+          "image": "phone.jpg",
+          "url": "https://github.com/juhi16792/Friend_Stalker_App"
+        },
+        {
+            "title": "PPG",
+            "category": "Website built with PHP, WordPress, HTML,CSS",
+            "image": "project6.jpg",
+            "url": "https://vcdad.ini.usc.edu"
+          }
+          
+        
+      ]
+    },
+    "testimonials": {
+      "testimonials": [
+        {
+          "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+          "user": "Kareem Abdul Jabbar"
+        },
+        {
+          "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+          "user": "Steve Wozniak... impersonator"
+        }
+      ]
+    }
+  }
