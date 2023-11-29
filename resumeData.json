@@ -44,6 +44,11 @@
       "skillmessage": "",
       "education": [
         {
+          "school": "Westcliff University",
+          "degree": "Master of Business Administration in Statistical Data Analysis",
+          "graduated": "June 2023"
+        },
+        {
           "school": "California State University",
           "degree": "Masters in Computer Science",
           "graduated": "May 2018"
@@ -56,9 +61,15 @@
       ],
       "work": [
         {
+          "company": "i911",
+          "title": "Lead Software Engineer",
+          "years": "March 2021 - Present",
+          "description": "Led the frontend development of a fitness mobile AR app and implemented in-app purchases and advertisement to monetize the app. Collaborated with 3D avatar artists and designers to implement and optimize game mechanics, UI/UX elements. Integrated third-party APIs and SDKs for enhanced functionality and features."
+        },
+        {
           "company": "University of Southern California",
-          "title": "Web Developer",
-          "years": "Sept 2018 - Present",
+          "title": "Full-stack Web developer",
+          "years": "Sept 2018 - March 2021",
           "description": "Develop, maintain and debug applications/websites in technologies like Go with Iris, Gorilla Mux Framework, PHP and WordPress. Design, develop and implement readable, well documented and reusable APIs. Maneuver HTML, CSS, JavaScript, jQuery, AngularJS,ReactJS and Golang for web development. Maintain the CI/CD pipelines from creating Jenkins jobs to update Puppet at the master/slave. Ensure that all web projects fully support and exploit SEO best practices. Optimize application scalability and build robust, functioning code, produce well designed, testable, efficient code by using best software development practices"
         },
         {
@@ -70,13 +81,40 @@
       ],
       "skills": [
         {
+          "name": "HTML/CSS",
+          "level": "90%"
+        },
+        
+        {
           "name": "ReactJs",
           "level": "75%"
         },
         {
-          "name": "CSS",
-          "level": "95%"
+          "name": "AngularJS",
+          "level": "75%"
         },
+       
+        {
+          "name": "Node.js",
+          "level": "70%"
+        },
+        {
+          "name": "JavaScript",
+          "level": "80%"
+        },
+        {
+          "name": "Vue.js",
+          "level": "75%"
+        },
+        {
+          "name": "Go",
+          "level": "70%"
+        },
+        {
+          "name": "Java",
+          "level": "75%"
+        },
+        
         {
           "name": "SQL",
           "level": "75%"
@@ -90,37 +128,42 @@
           "level": "70%"
         },
         {
-          "name": "Wordpress",
-          "level": "80%"
-        },
-        {
-          "name": "Go",
+          "name": "Unity",
           "level": "70%"
         },
         {
-          "name": "Java",
-          "level": "65%"
+          "name": "Flutter",
+          "level": "50%"
         },
         {
-          "name": "AngularJS",
-          "level": "75%"
+          "name": "Xcode",
+          "level": "70%"
         },
         {
-          "name": "HTML5",
-          "level": "90%"
-        },
-        {
-          "name": "Node.js",
+          "name": "Android Studio",
           "level": "60%"
         },
         {
-          "name": "JavaScript",
+          "name": "Wordpress",
           "level": "80%"
         }
+    
       ]
     },
     "portfolio": {
       "projects": [
+        {
+          "title": "i911",
+          "category": "Website built with React and NodeJS",
+          "image": "project7.png",
+          "url": "https://www.i911.com/"
+        },
+        {
+          "title": "Adventure Traveler",
+          "category": "Mobile application built with Unity3D and Xcode",
+          "image": "project8.png",
+          "url": "https://apps.apple.com/ca/app/adventure-traveler/id1593125002"
+        },
         {
           "title": "INI",
           "category": "Website built with Golang,Go Templates, Gorilla mux framework,MySQL, JavaScript, Jquery, HTML,CSS",
